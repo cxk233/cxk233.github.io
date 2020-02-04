@@ -1,7 +1,0 @@
-
-Host github.com
-user cruntong@gmail.com
-Hostname ssh.github.com
-PreferredAuthentications publickey
-IdentityFile ~/.ssh/id_rsa
-Port 443
