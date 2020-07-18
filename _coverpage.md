@@ -1,5 +1,4 @@
-![logo](img/avatar.svg ':size=100%')
-# kirito's blog
+# cxk233's blog
 
 <!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
 <!-- [Get Started](README) -->
