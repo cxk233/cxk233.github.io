@@ -5,9 +5,9 @@ function lablegen(hook) {
         gitalk = new Gitalk({
             clientID: 'ced6988e6ccedf962b67',
             clientSecret: '73a32399b7eda1c3142aa163775550aa214b056a',
-            repo: 'zshorz.github.io',
-            owner: 'zshorz',
-            admin: ['zshorz'],
+            repo: 'cxk233.github.io',
+            owner: 'cxk233',
+            admin: ['cxk233'],
             id: hex_md5(window.location.pathname + window.location.hash.split('?')[0]),
             distractionFreeMode: true
         });
