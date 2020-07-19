@@ -3,8 +3,8 @@
 function lablegen(hook) {
     hook.doneEach(function () {
         gitalk = new Gitalk({
-            clientID: 'ced6988e6ccedf962b67',
-            clientSecret: '73a32399b7eda1c3142aa163775550aa214b056a',
+            clientID: '933ab0bb3e2464f51f27',
+            clientSecret: '67016febaae89221e9cbbad907d5f7a0c8e8b7da',
             repo: 'cxk233.github.io',
             owner: 'cxk233',
             admin: ['cxk233'],
