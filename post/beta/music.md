@@ -6,4 +6,5 @@ gfx<br />
 呐喊<br />
 <audio src="/呐喊.mp3" controls></audio><br />
 网抑 45秒<br />
-<audio src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbmoxU2JnUUdqVHhoakxWdGlTSTYtajk1S3N6P2U9RWZnQzVl.mp3" controls></audio><br />
+<audio src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbmoxU2JnUUdqVHhoakxWdGlTSTYtajk1S3N6P2U9Nko4SU9D.mp3" controls></audio><br />
+
