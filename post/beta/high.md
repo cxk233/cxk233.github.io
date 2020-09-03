@@ -12,5 +12,5 @@
 <video src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbmoxU2JnUUdqVHhoanphenRpSHo1Y2ZnWmtGP2U9aGRTYzJC.mp4" controls></video><br />
 极限盲狙<br />
 <video src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbmoxU2JnUUdqVHhoajduVnJ3eEY1b3JPbDhBP2U9VWNMNmxI.mp4" controls></video><br /><br /><br />
-<a href="/post/beta/picture.md">图片url</a>
+<a href="/post/beta/picture.html">图片url</a>
 
