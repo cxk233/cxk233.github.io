@@ -2,4 +2,4 @@
 * [音乐](/post/beta/music.md)
 * [高速通道](/post/beta/high.md)
 * [墨羽](/post/beta/moyu.md)
-* [有BUG]("cxk233.github.io/post/beta/bili.html")
+* [有BUG](cxk233.github.io/post/beta/bili.html)
