@@ -2,5 +2,5 @@
 * [音乐](/post/beta/music.md)
 * [高速通道](/post/beta/high.md)
 * [墨羽](/post/beta/moyu.md)
-* [有BUG Bili](https://cxk233.github.io/post/beta/bili.html)
-* [8个森下下士](/post/beta/sxxs.md)
+* [Bili](https://cxk233.github.io/post/beta/bili.html)
+* [16个森下下士](https://cxk233.github.io/post/beta/sxxs.html)
