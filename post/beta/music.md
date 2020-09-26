@@ -11,4 +11,7 @@ gfx<br />
 zch<br />
 <audio src="/G.mp3" controls></audio><br />
 呐喊<br />
-<audio src="/呐喊.mp3" controls></audio><br />
+<audio src="/呐喊.mp3" controls></audio><br /><br /><br /><br /><br /><br /><br /><br /><br />
+🐴🥔专区<br />
+登飞来峰<br />
+<audio src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbmoxU2JnUUdqVHhoazIxeUNxWTJrWlZIdmM3.mp3" controls></audio><br />
