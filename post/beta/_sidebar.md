@@ -3,6 +3,7 @@
 * [高速通道](/post/beta/high.md)
 * [明星带你学语文](/post/beta/chinese.md)
 * [墨羽](/post/beta/moyu.md)
+* [下载站](/post/beta/download.md)
 * [Bili](https://cxk233.github.io/post/beta/bili.html)
 * [16个森下下士](https://cxk233.github.io/post/beta/sxxs.html)
 * [Unravel](/post/beta/attention.md)
