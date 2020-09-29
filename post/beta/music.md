@@ -1,13 +1,13 @@
-音乐<br />
-你发现了隐藏界面<br /><br />
-害怕<br />
+gfx<br />
+<audio src="/F.mp3" controls></audio><br />
+zch<br />
+<audio src="/G.mp3" controls></audio><br />
+阴兵出动<br />
+<audio src="http://bbb.gm88888888.com/o_1ejd75rc6ghvg013j11d2n1qdqa.mp3" controls></audio><br />
+处刑曲<br />
 <audio src="/害怕.mp3" controls></audio><br />
 噪音<br />
-<audio src="/噪音2.mp3" controls></audio><br />
-金宫山庄<br />
-<audio src="/F.mp3" controls></audio><br />
-乱七八糟<br />
-<audio src="/G.mp3" controls></audio><br />
+<audio src="http://bbb.gm88888888.com/o_1ejd7867hiru13k3uom1eli1bna.mp3" controls></audio><br />
 呐喊<br />
 <audio src="/呐喊.mp3" controls></audio><br />
 第一题<br />
