@@ -5,5 +5,4 @@
 * [下载站](/post/beta/download.md)
 * [高速通道](/post/beta/high.md)
 * [Bili](https://cxk233.github.io/post/beta/bili.html)
-* [16个森下下士](https://cxk233.github.io/post/beta/sxxs.html)
 * [Unravel](/post/beta/attention.md)
