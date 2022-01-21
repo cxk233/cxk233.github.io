@@ -145,7 +145,7 @@
 	</p>
 		<p style="text-align: left">
 		P37
-		<a style="color:black" href="./quickly.mp4">丽丽大战李和鑫</a>
+		<a style="color:black" href="./lixin.mp4">丽丽大战李和鑫</a>
 	</p>
 		<p style="text-align: left">
 		P38
