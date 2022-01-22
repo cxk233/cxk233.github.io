@@ -179,4 +179,5 @@
 		P45(Beta)
 		<a style="color:black" href="./dges.mp4" target="_blank">刀哥挑战吃粑粑</a>
 	</p>
-	<script id="_waupmu">var _wau = _wau || []; _wau.push(["dynamic", "bg6hipj3cl", "pmu", "c4302bffffff", "small"]);</script><script async src="//waust.at/d.js"></script>
+	
+	
