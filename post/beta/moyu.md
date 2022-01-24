@@ -16,6 +16,6 @@ P7.帮我剪辑成大佬<br />
 P8.极限盲狙<br />
 <video src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbmoxU2JnUUdqVHhoajduVnJ3eEY1b3JPbDhBP2U9VWNMNmxI.mp4" controls></video><br />
 P9.单四<br/>
-<video src="https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbmoxU2JnUUdqVHhod0NIenNVTXFBWWliYTQtP2U9ZkZCTTR3.mp4" controls></video><br />
+<video src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbmoxU2JnUUdqVHhod0NIenNVTXFBWWliYTQtP2U9ZkZCTTR3.mp4" controls></video><br />
 P10.干就完了！<br />
-<video src="https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbmoxU2JnUUdqVHhobjkyVWhmQUdUMmNiaDl5P2U9aUFxM0tr.mp4" controls></video><br />
+<video src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbmoxU2JnUUdqVHhobjkyVWhmQUdUMmNiaDl5P2U9aUFxM0tr.mp4" controls></video><br />
