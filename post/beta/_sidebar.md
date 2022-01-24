@@ -1,6 +1,5 @@
 * [返回](/README)
 * [音乐](/post/beta/music.md)
-* [明星带你学语文](/post/beta/chinese.md)
 * [墨羽](/post/beta/moyu.md)
 * [下载站](/post/beta/download.md)
 * [Unravel](/post/beta/attention.md)
