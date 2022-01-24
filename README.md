@@ -179,5 +179,6 @@
 		P45(Beta)
 		<a style="color:black" href="./dges.mp4" target="_blank">刀哥挑战吃粑粑</a>
 	</p>
-	
+	<br><br><br><br>
+    	<a href="cxk233.github.io/old.html" target="_blank">怀旧版体验</a>
 	
