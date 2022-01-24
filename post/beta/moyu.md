@@ -1,4 +1,5 @@
-<a href="https://live.kuaishou.com/profile/zg15269147591" target="_blank">墨羽官方快手账号</a><br /><br />
+<font size=5><a href="https://live.kuaishou.com/profile/zg15269147591" target="_blank">墨羽官方快手账号</a></font><br /><br />
+<font size=6>由于墨羽本人已退游，故此页终结。</font><br /><br />
 P1.欢迎来到G港<br />
 <video src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbmoxU2JnUUdqVHhoamgwd3dfdlhMY1NNRXZRP2U9VkdUNVk1.mp4" controls></video><br />
 P2(墨羽精彩击杀秀)由于保存不当，已失传。 <br /><br />
@@ -18,4 +19,3 @@ P9.单四<br/>
 <video src="https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbmoxU2JnUUdqVHhod0NIenNVTXFBWWliYTQtP2U9ZkZCTTR3.mp4" controls></video><br />
 P10.干就完了！<br />
 <video src="https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbmoxU2JnUUdqVHhobjkyVWhmQUdUMmNiaDl5P2U9aUFxM0tr.mp4" controls></video><br />
-<font size=6>由于墨羽本人已退游，故此页终结。</font>
