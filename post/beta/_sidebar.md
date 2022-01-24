@@ -1,5 +1,5 @@
 * [返回](/README)
 * [音乐](/post/beta/music.md)
 * [墨羽](/post/beta/moyu.md)
-* [下载站](/post/beta/download.md)
 * [Unravel](/post/beta/attention.md)
+* [🎉恭喜你找到了隐藏内容🎉](/post/beta/download.md)
