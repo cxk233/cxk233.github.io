@@ -18,7 +18,7 @@ window.$docsify = {
   //logo: 'http://avatars2.githubusercontent.com/u/35095041',
   name: 'cxk233',
 
-  repo: 'https://cxk233.github.io/#/post/beta/music.md', // 右上角github链接
+  repo: 'https://github.com/cxk233/cxk233.github.io', // 右上角github链接
 
   ergeNavbar: true, //小屏设备合并导航栏到侧边栏 
   notFoundPage: true, // 在找不到指定页面时加载 _404.md
