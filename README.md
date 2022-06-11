@@ -161,7 +161,7 @@
 	</p>
 		<p style="text-align: left">
 		P41
-		<a style="color:black" href="./imsb.mp4" target="_blank">白牛我是个傻逼</a>
+		<a style="color:black" href="./imsb.mp4" target="_blank">虎哥的独立宣言</a>
 	</p>
 		<p style="text-align: left">
 		P42
