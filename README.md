@@ -17,7 +17,7 @@
 	</p>
 		<p style="text-align: left">
 		P5
-		<a style="color:black" href="./1old8.mp4" target="_blank">老八首次奥利给</a> <a style="color:black" href="./1old8_2k.mp4" target="_blank">2K(Beta)</a>
+		<a style="color:black" href="./1old8.mp4" target="_blank">老八首次奥利给</a> <a style="color:black" href="./1old8_2k.mp4" target="_blank">2K</a>
 	</p>
 		<p style="text-align: left">
 		P6
@@ -153,7 +153,7 @@
 	</p>
 		<p style="text-align: left">
 		P39
-		<a style="color:black" href="./tuanzhang.mp4" target="_blank">挑衅杀马特团长（中文版）</a><a style="color:black" href="./riyu.mp4" target="_blank">（日语版）</a>
+		<a style="color:black" href="./tuanzhang.mp4" target="_blank">挑衅杀马特团长（中文版） </a><a style="color:black" href="./riyu.mp4" target="_blank">（日语版）</a>
 	</p>
 		<p style="text-align: left">
 		P40
@@ -173,10 +173,10 @@
 	</p>
 		<p style="text-align: left">
 		P44
-		<a style="color:black" href="./jinglei.mp4" target="_blank">WC六道唱惊雷</a>
+		<a style="color:black" href="./wcnmm.mp4" target="_blank">丁真我测你们码</a>
 	</p>
 		<p style="text-align: left">
-		P45(Beta)
+		P45
 		<a style="color:black" href="./dges.mp4" target="_blank">刀哥挑战吃粑粑</a>
 	</p>
 	<br><br><br><br>
